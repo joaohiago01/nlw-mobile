@@ -15,7 +15,7 @@ The project aims to establish a connection between companies and / or entities t
 ## :pushpin: Table of Contents
 
 <!--ts-->
-   * [Description](#deciduous_tree-description)
+   * [Description](#earth_americas-description)
    * [About the project](#sunflower-about-the-project)
    * [Features](#key-features)
    * [Technologies](#computer-technologies)
