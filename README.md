@@ -21,7 +21,6 @@ The project aims to establish a connection between companies and / or entities t
    * [Technologies](#computer-technologies)
    * [Pre-Requisites](#scroll-pre-requisites)
    * [How to use](#construction_worker-how-to-use)
-   * [Live Demo](#top-live-demo)
 <!--te-->
 
 ## :key: Features
