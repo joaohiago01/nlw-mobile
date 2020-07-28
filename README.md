@@ -47,11 +47,10 @@ The following tools were used in the construction of the project:
 
 ## :scroll: Pre-Requisites
 
-To clone and run this application, you'll need [Git](https://git-scm.com/), [Node.js](https://nodejs.org/en/), [Yarn](https://yarnpkg.com/) installed on your computer.
+To clone and run this application, you'll need [Git](https://git-scm.com/), [Yarn](https://yarnpkg.com/) installed on your computer and install the Expo App on your smartphone.
 
 ## :construction_worker: How to use
 
-Install the Expo App on your smartphone.
 From your command line:
 
 ```bash
